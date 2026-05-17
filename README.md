@@ -1,2 +1,9 @@
-# h3xreaper-s-glitchy-road-into-tech
-I’m h3xreaper— faceless, stubborn, and stuck at level 0. This is raw boot‑up mode: typo-riddled commits, broken builds, stack traces I barely understand, and late-night copy‑pasting from docs I probably shouldn’t trust. I’m learning in public, fumbling through the dark, definitely not a pro… just a ghost in the machine 
+I’m starting from almost zero in tech and documenting my progress as I learn IT support and computer fundamentals.
+
+Today I:
+
+started building a study plan
+researched CompTIA A+
+committed to using my downtime at work to study instead of gaming
+
+My goal is to build a stable career in tech and support my family long term.
